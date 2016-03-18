@@ -6,7 +6,7 @@ categories:
 - rails-angular
 ---
 
-Welcome to second part of our series, In this blog I'm going to introduce you some rubygems , we use accordingly.
+Welcome to second part of our series, In this post I'm going to introduce you some rubygems , we use accordingly.
 
 Our gemfile looks like,
 
